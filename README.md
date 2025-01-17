@@ -30,7 +30,7 @@ Sou Engenheiro de Software Full Stack com mais de 14 anos de experiência em des
     height="210"
     style="padding-right: 10px;"
     src="https://github-readme-stats-pearl-nine-64.vercel.app
-/api?username=oskaralves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+/api?username=oskaralves&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
   />
 
 <img
@@ -38,7 +38,7 @@ Sou Engenheiro de Software Full Stack com mais de 14 anos de experiência em des
       alt="GitHub Stats"
       height="210"
       src="https://github-readme-stats-pearl-nine-64.vercel.app
-/api/top-langs/?username=oskaralves&theme=tokyonight&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=10"
+/api/top-langs/?username=oskaralves&theme=tokyonight&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9&cache_seconds=1800"
   />
 
 </p>
