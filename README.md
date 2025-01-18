@@ -4,32 +4,113 @@
 
 Sou Engenheiro de Software Full Stack com mais de 14 anos de experiência em desenvolvimento de software. Minha trajetória é marcada pela combinação de habilidades técnicas, um olhar estratégico para design e uma compreensão aprofundada de negócios, que me permite criar soluções tecnológicas, performáticas e de impacto.
 
-:rocket: _Cheio de garra, veloz, responsável, caprichoso em cada projeto que assumo e apaixonado por tecnologia e inovação._
-### 💻 Tecnologias
+_Cheio de garra, veloz, responsável, caprichoso em cada projeto que assumo e apaixonado por tecnologia e inovação._
 
-| Departamento       | Tecnologias                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**       | <img alt="HTML" title="HTML" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /> <img alt="CSS" title="CSS" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> <img alt="JavaScript" title="JavaScript" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> <img alt="TypeScript" title="TypeScript" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> <img alt="React" title="React" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /> <img alt="Next.js" title="Next.js" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /> <img alt="Angular" title="Angular" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" /> <img alt="Vue.js" title="Vue.js" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| **Backend**        | <img alt="Node.js" title="Node.js" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="Nest.js" title="Nest.js" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /> <img alt="C#" title="C#" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> <img alt=".NET" title=".NET" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /> <img alt=".NET Core" title=".NET Core" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Test**         | <img alt="Jest" title="Jest" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" /> <img alt="Cypress" title="Cypress" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" /> <img alt="Testing Library" title="Testing Library" height="40" style="padding-right:8px" src="https://testing-library.com/img/octopus-128x128.png" /> |
-| **Mobile**         | <img alt="React Native" title="React Native" height="40" style="padding-right:8px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" /> <img alt="Expo" title="Expo" height="40" style="padding-right:8px" src="https://www.svgrepo.com/show/341805/expo.svg" /> <img alt="Ionic" title="Ionic" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ionic/ionic-original.svg" /> |
-| **DataBase** | <img alt="PostgreSQL" title="PostgreSQL" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /> <img alt="MySQL" title="MySQL" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> <img alt="MongoDB" title="MongoDB" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> <img alt="Firebase" title="Firebase" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" /> <img alt="Redis" title="Redis" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /> <img alt="ElasticSearch" title="ElasticSearch" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" /> <img alt="SQLite" title="SQLite" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **DevOps**         | <img alt="Git" title="Git" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" /> <img alt="Docker" title="Docker" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img alt="Github Actions" title="Github Actions" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" /> <img alt="GCP" title="GCP" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| **Libs**           | <img alt="Redux" title="Redux" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" /> <img alt="TanStack Query / ReactQuery" title="TanStack Query / ReactQuery" height="40" style="padding-right:8px" src="https://cdn.prod.website-files.com/675da0ab9f940c0315fd965f/6767dea5d39b71a90a2523db_react-query-p-500.webp" /> <img alt="TanStack Table / ReactTable" title="TanStack Table / ReactTable" height="40" style="padding-right:8px" src="https://lineup-lite.js.org/img/react-table.svg" />  <img alt="Zustand" title="Zustand" height="40" style="padding-right:8px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpHj4UwTW4ANSlNjzQOiiOqfDa6kal9RpF0A&s" /> <img alt="MUI" title="MUI" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />  <img alt="Tailwind" title="Tailwind" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> <img alt="Bootstrap" title="Bootstrap" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> <img alt="Styled Components" title="Styled Components" height="40" style="padding-right:8px" src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" /> <img alt="SASS" title="SASS" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" /> <img alt="LottieFiles" title="LottieFiles" height="40" style="padding-right:8px" src="https://cdn.iconscout.com/icon/free/png-256/free-lottiefiles-logo-icon-download-in-svg-png-gif-file-formats--lottifiles-brand-iconscout-pack-logos-icons-4674917.png" /> <img alt="AntDesign" title="AntDesign" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/antdesign/antdesign-original.svg" /> <img alt="Shadcn UI" title="Shadcn UI" height="40" style="padding-right:8px" src="https://ui.shadcn.com/apple-touch-icon.png" /> <img alt="Express" title="Express" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> <img alt="Fastify" title="Fastify" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg" /> <img alt="Axios" title="Axios" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" /> <img alt="jQuery" title="jQuery" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" /> <img alt="React Router" title="React Router" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" /> <img alt="StoryBook" title="StoryBook" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" />  <img alt="Swagger" title="Swagger" height="40" style="padding-right:8px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" /> |
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
+---
+## 📊 Estatísticas
 <img
     alt="GitHub Stats"
-    height="200"
+    height="190"
     style="padding-right: 10px;"
     src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=oskaralves&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
-/>
-<img
+/><img
     alt="Top Languages"
-    height="200"
+    height="190"
     src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=oskaralves&theme=catppuccin_latte&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9&cache_seconds=1800"
 />
 
+---
+
+## 🛠️ Tecnologias
+
+### 🎨 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36"/>
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" height="36"/>
+</p>
+
+### 🛠️ Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="36"/>
+</p>
+
+### 📱 Mobile
+<p>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="36"/>
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" height="36"/>
+</p>
+
+### 🧪 Test
+<p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white" height="36"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="36"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="36"/>
+</p>
+
+### 🚀 DevOps
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" height="36"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" height="36"/>
+</p>
+
+### 📦 Principais Bibliotecas
+
+<p>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Redux_Saga-58b338?style=for-the-badge&logo=redux-saga&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/React_Table-FF4154?style=for-the-badge&logo=react-table&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Zustand-18181B?style=for-the-badge&logo=zustand&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Lottie_Files-1DC9F0?style=for-the-badge&logo=lottie&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Sharp-60A839?style=for-the-badge&logo=sharp&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/StoryBook-FF4785?style=for-the-badge&logo=storybook&logoColor=white"  height="36" />
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"  height="36" />
+</p>
+
+---
+
+## ✉️ Contacts
+<p>
+<a href = "mailto:osk.alves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23990000?style=for-the-badge&logo=gmail&logoColor=white" height="36"></a>
+<a href="https://linkedin.com/in/oskaralves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="36"></a>
+</p>
