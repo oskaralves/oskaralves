@@ -23,13 +23,13 @@ Sou Engenheiro de Software Full Stack com mais de 14 anos de experiência em des
 ### 📊 Estatísticas
 <img
     alt="GitHub Stats"
-    height="210"
+    height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats-pearl-nine-64.vercel.app/api?username=oskaralves&show_icons=true&theme=catppuccin_latte&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"
 />
 <img
     alt="Top Languages"
-    height="210"
+    height="200"
     src="https://github-readme-stats-pearl-nine-64.vercel.app/api/top-langs/?username=oskaralves&theme=catppuccin_latte&layout=compact&custom_title=Tecnologias&count_private=true&langs_count=9&cache_seconds=1800"
 />
 
